@@ -1,0 +1,12 @@
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.HRM.resources
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Dokumenti.resources
+D:\BITNO\PROG DK\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Pocetna.resources
